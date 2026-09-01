@@ -1,0 +1,28 @@
+# Godot
+.godot/
+.import/
+export_templates/
+feature_profiles/
+text_editor_themes/
+script_templates/
+export_presets.cfg
+*.translation
+*.pck
+*.exe
+*.console.exe
+*.zip
+
+# Python / OS
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*~
+
+# Secrets
+.env
+.env.*
+!.env.example
